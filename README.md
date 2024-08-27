@@ -4,7 +4,7 @@ This information can be used by policymakers, agricultural extension services, a
 
 # Documentation 
 # Data Sources
-The data for this analysis was collected through surveys conducted among farmers in 4 communities in Kaduna North Nigeria. It includes information on their educational background, training received, and their perceptions of the challenges they face in farming using Google Forms.
+The data for this analysis was collected through surveys I conducted among farmers in 4 communities in Kaduna North Nigeria. It includes information on their educational background, training received, and their perceptions of the challenges they face in farming using Google Forms.
 
 # Analysis
 To have a proper understanding of the distribution of these challenges for each community out of the four, the data was then transferred to Excel for further analysis using power query to clean the data and Pivot tables and charts to analyze and visualize the data focused on  200 responses only counting 50 for each community.
